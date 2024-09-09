@@ -1,1 +1,1 @@
-![hero](https://github.com/your-username/your-repo/blob/main/2160duytcosm.jpg)
+![hero](https://github.com/bartek-biernacki/img/blob/main/2160duytcosm.jpg)
